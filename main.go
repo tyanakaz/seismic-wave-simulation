@@ -15,7 +15,7 @@ const N = 100
 const C = 0.2
 
 // Time steps
-const M = 10000
+const M = 1000
 
 // The wave equation solver function
 func solveWaveEquation() [][][]float64 {
