@@ -1,2 +1,3 @@
-csv/*
-images/*
+csv/*.csv
+images/*.png
+images/*.mp4
