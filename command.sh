@@ -2,7 +2,10 @@
 
 echo 'start'
 echo 'seismic wave simulation'
-go run main.go
+go run simple_wave_and_absorption_boundary_simulation.go
+# go run sh_wave_simulation.go
+# go run simple_wave_simulation.go
+# go run sv_wave_simulation.go
 echo 'visualize'
 python3 main.py
 echo 'creat mp4'

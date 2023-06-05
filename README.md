@@ -4,7 +4,13 @@
 
 ## シミュレーションの実行
 ```
-go run main.go
+go run sh_wave_simulation.go
+
+go run simple_wave_and_absorption_boundary_simulation.go
+
+go run simple_wave_simulation.go
+
+go run sv_wave_simulation.go
 ```
 ## シミュレーションのビジュアル化
 
